@@ -1,0 +1,167 @@
+*{
+margin: 0;
+padding: 0;
+}
+#Nav-bar{
+  background-color: rgb(49, 43, 43);
+  width: 100%;
+  text-align: center;
+  height: 35px;
+
+}
+#Nav-bar ul li{
+    display: inline ;
+    margin: 100px;
+    padding: 14px;
+}
+#Nav-bar a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.795);
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+#Nav-bar li:hover{
+    background-color: rgb(162, 162, 162);
+    
+}
+#Home-section{
+    background-color: rgb(172, 29, 29);
+}
+
+.H1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.img-container{
+    width: 90%;
+    margin-left: 70px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+#Home-section h2{
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+#Home-section h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cormorant Garamond', serif;
+}
+#about-section{
+    background-color: rgb(29, 92, 35);
+}
+.image1{
+    width: 700px;
+    margin-left: 390px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#about-section h3{
+    font-family: 'Edu SA Beginner', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+.image2{
+    width: 700px;
+    margin-left: 390px;
+    margin-top: 30px;
+}
+#menu-section{
+    background-color: white;
+}
+
+.divesclass{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 9px;
+    margin-left: 9px;
+}
+.divesclass h1{
+    font-family: 'Cormorant Garamond', serif;
+    color: red;
+    font-weight: 900;
+    font-size: 30px ;
+}
+.divesclass h3{
+    font-family: 'Cormorant Garamond', serif;
+    color: rgb(100, 37, 37);
+    font-size: 26px;
+}
+.divesclass > h4{
+    font-family: 'Edu SA Beginner', cursive;
+    color: rgb(33, 105, 25);
+    font-size: larger;
+}
+
+.H4{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(92, 10, 10);
+    margin-left: 20px;
+}
+#contact-section{
+    background-color: antiquewhite;
+}
+.buttonclass{
+    width: 10%;
+    height: 30px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(255, 99, 2);
+    border: none;
+    border-radius: 20px;
+    margin-left: 690px;
+}
+#contact-section input{
+    width: 99%;
+    height: 30px;
+    margin-bottom: 14px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.buttonclass:hover{
+    background-color: rgb(251, 140, 6);
+}
+#contact-section h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 40px;
+}
+#contact-section h3{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Edu SA Beginner', cursive;
+    
+}
+
+
+
+.footerpar{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    font-weight: 600;
+    font-size: larger;
+    color: rgb(89, 89, 144);
+}
+.social-media{
+    text-align: center;
+    margin-top: 10px;
+    color: brown;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.795);
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.phonenumb{
+    text-align: center;
+    margin-top: 10px;
+    color: brown;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
